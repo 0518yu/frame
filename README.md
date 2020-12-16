@@ -14,8 +14,10 @@ php is beautiful
 php composer.phar create-project 0518yu/frame auto_web
 ```
 
-## git 常用:
+## composer修改发布:
 ```
 git tag 1.0.0
 git push origin 1.0.0
 ```
+
+自动更新:https://packagist.org/packages/0518yu/frame
