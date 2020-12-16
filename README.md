@@ -21,3 +21,14 @@ git push origin 1.0.0
 ```
 
 自动更新:https://packagist.org/packages/0518yu/frame
+
+## 关联git
+```
+git init
+git remote add origin xxxxxxxxxx
+
+git add .
+git commit -m '初始化项目'
+git push -u origin master
+
+```
